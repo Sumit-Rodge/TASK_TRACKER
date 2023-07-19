@@ -1,2 +1,3 @@
-# TODO-List
-Basic todo list for tracking your daily activities . built using HTML , CSS and VANILLA JAVASCIPT
+# TASK-TRACKER
+A web app that keeps track of your regular tasks for you. 
+TASK TRACKER is built using HTML , CSS and VANILLA JAVASCIPT
